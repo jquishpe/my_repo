@@ -4,6 +4,6 @@
 
 Mi primer repositorio - 
 
--[ ] Uno
--[ ] Dos
--[ ] Tres
+- Uno
+- Dos
+- Tres
